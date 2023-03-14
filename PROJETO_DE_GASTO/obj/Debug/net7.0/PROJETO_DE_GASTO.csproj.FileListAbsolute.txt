@@ -1,0 +1,15 @@
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\bin\Debug\net7.0\PROJETO_DE_GASTO.exe
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\bin\Debug\net7.0\PROJETO_DE_GASTO.deps.json
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\bin\Debug\net7.0\PROJETO_DE_GASTO.runtimeconfig.json
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\bin\Debug\net7.0\PROJETO_DE_GASTO.dll
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\bin\Debug\net7.0\PROJETO_DE_GASTO.pdb
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\obj\Debug\net7.0\PROJETO_DE_GASTO.csproj.AssemblyReference.cache
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\obj\Debug\net7.0\PROJETO_DE_GASTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\obj\Debug\net7.0\PROJETO_DE_GASTO.AssemblyInfoInputs.cache
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\obj\Debug\net7.0\PROJETO_DE_GASTO.AssemblyInfo.cs
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\obj\Debug\net7.0\PROJETO_DE_GASTO.csproj.CoreCompileInputs.cache
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\obj\Debug\net7.0\PROJETO_DE_GASTO.dll
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\obj\Debug\net7.0\refint\PROJETO_DE_GASTO.dll
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\obj\Debug\net7.0\PROJETO_DE_GASTO.pdb
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\obj\Debug\net7.0\PROJETO_DE_GASTO.genruntimeconfig.cache
+C:\Users\regin\OneDrive\Desktop\PROJETO_DE_GASTO\PROJETO_DE_GASTO\obj\Debug\net7.0\ref\PROJETO_DE_GASTO.dll
