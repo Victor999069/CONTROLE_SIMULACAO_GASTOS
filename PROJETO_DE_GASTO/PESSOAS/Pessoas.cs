@@ -9,6 +9,6 @@ namespace PROJETO_DE_GASTO.PESSOAS
     public class Pessoas
     {
         public string Nome { get; set; }
-        public string Data_Nascimento { get; set; }
+        public string Ano_Nascimento { get; set; }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PROJETO_DE_GASTO.VALORES
 {
-    public class Investimento
+    public class Investimento //area em desenvolvimento
     {
         public string Tipo_de_Investimento { get; set; }
 
